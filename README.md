@@ -49,9 +49,7 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="Kotlin" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  </a>
+  
   
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
       <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
