@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Rajdeep Das </h1>
-👨‍💻 About Me :
-📌 I’m a 3rd year Btech undergrad from SMIT Sikkim, India
+
+📌 I’m a 3rd year Btech undergrad from SMIT Sikkim,
 🧡 I’m currently learning MERN Stack.
 🏚️ From: Dharmanagar,Tripura.
 
