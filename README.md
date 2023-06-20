@@ -1,8 +1,13 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Rajdeep Das </h1>
+👨‍💻 About Me :
+📌 I’m a 3rd year Btech undergrad from SMIT Sikkim, India
+🧡 I’m currently learning MERN Stack.
+🏚️ From: Dharmanagar,Tripura.
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, web developer currently learning MERN stack.
+   
+    
 <br>
 <br>
 <div align="center">
