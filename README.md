@@ -66,9 +66,7 @@
       <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   </a>
  
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  </a>
+  
   
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
