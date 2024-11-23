@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Rajdeep Das </h1>
 
-<h3>📌 I’m a 3rd year Btech undergrad from SMIT Sikkim.</h3>
+<h3>📌 I’m a Final Year Btech undergrad from SMIT Sikkim.</h3>
 <h3>🧡 I’m currently learning MERN Stack.</h3>
 <h3>😄 Pronouns: He/Him</h3>
 <h3>🏚️ From: Dharmanagar,Tripura.</h3>
