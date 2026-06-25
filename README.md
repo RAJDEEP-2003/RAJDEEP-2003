@@ -1,68 +1,41 @@
 # 👋 Hi, I'm Rajdeep Das
 
-🎓 **Computer Science Student | Software Developer | AI/ML Enthusiast**
+💻 Software Engineer | C++ Developer | AI/ML Enthusiast
 
-I am passionate about building scalable software, solving complex problems through Data Structures & Algorithms, and developing AI/ML applications. I enjoy working across software engineering, machine learning, and full-stack development while continuously learning new technologies.
-
-## 🚀 What I'm Currently Focused On
-
-* Solving Data Structures & Algorithms problems
-* Building high-performance C++ applications
-* Machine Learning & Deep Learning projects
-* Open Source Contributions
-* System Design and Software Engineering
+## 🚀 Currently Focused On
+- Data Structures & Algorithms
+- High-Performance C++ Development
+- System Design
+- Machine Learning
+- Open Source Contributions
 
 ## 💻 Core Skills
 
-### Programming Languages
-
-* C++
-* Python
-* Java
-* JavaScript
-* TypeScript
-
-### Software Engineering
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Design Patterns
-* System Design
-* Multithreading
-* Low-Latency Systems
-* REST APIs
-* Git & GitHub
-
+### C++ & Software Engineering
+### Data Structures & Algorithms
+### System Design
+### Machine Learning & AI
 ### Web Development
-
-* React
-* Node.js
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
-
 ### Databases
 
-* MySQL
-* MongoDB
+## 📌 Featured Projects
 
-### AI / Machine Learning
+### 🔍 Deep Packet Inspection
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Generative AI
-* Data Science
+A network traffic analysis and monitoring system that inspects packet data to identify protocols, detect anomalies, and provide insights into network behavior. Built with a focus on networking fundamentals, packet processing, and security concepts.
 
-## 🔬 Research Interests
+**Tech Stack:** C++, Networking, Packet Analysis
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Generative AI
-* Large Language Models (LLMs)
+🔗 Repository: https://github.com/RAJDEEP-2003/deep-packet-inspection
+
+### 🧩 CrackIt
+
+A problem-solving and algorithm-focused project designed to strengthen Data Structures & Algorithms skills through practical implementation and coding challenges.
+
+**Tech Stack:** C++, DSA, Algorithms
+
+🔗 Repository: https://github.com/RAJDEEP-2003/CrackIt
+
 
 ## 🌐 Connect With Me
 
